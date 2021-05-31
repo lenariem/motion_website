@@ -14,7 +14,7 @@ https://motion-website.vercel.app/
 * Vercel;
 * responsive for different devices;
 * 8 of 10 on https://bettercodehub.com/;
-* according PageSpeed Insights: desktop 99 from 100, mobile 84 from 100
+* according PageSpeed Insights: desktop 99 from 100, mobile 92 from 100
 
 ### User can:
 * watch the catalog;
