@@ -63,7 +63,7 @@ $(document).ready(function () {
   addEventListener("keydown", eventKey);
 
   //TIMER//
-  const deadline = "2022-01-31";
+  const deadline = "2023-01-31";
 
   function getTimeRemaining(endtime) {
     //miliseconds left
